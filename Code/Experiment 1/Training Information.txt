@@ -1,0 +1,5 @@
+Model Trained on: 
+Patch Size = (64,64,64)
+Tiles = 5
+Overlap = 0.5
+Batch Size = 2
