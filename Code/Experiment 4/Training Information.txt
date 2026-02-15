@@ -1,0 +1,3 @@
+Model Trained on: 
+(H, W, D)(128,176,128)
+Batch Size = 2
