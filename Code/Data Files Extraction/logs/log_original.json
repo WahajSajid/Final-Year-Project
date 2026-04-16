@@ -1,0 +1,34 @@
+{
+    "run_name": "original",
+    "timestamp": "2026-04-16 22:13:18",
+    "total_voxels": 629145600,
+    "num_patients": 300,
+    "class_counts": {
+        "Background": 604221366,
+        "ET": 913206,
+        "NETC": 17654061,
+        "SNFH": 3958887,
+        "RC": 2398080
+    },
+    "class_pct": {
+        "Background": 96.0384,
+        "ET": 0.1452,
+        "NETC": 2.806,
+        "SNFH": 0.6292,
+        "RC": 0.3812
+    },
+    "region_counts": {
+        "Background": 604221366,
+        "ET": 913206,
+        "RC": 2398080,
+        "Tumor Core": 18567267,
+        "Whole Tumor": 22526154
+    },
+    "region_pct": {
+        "Background": 96.0384,
+        "ET": 0.1452,
+        "RC": 0.3812,
+        "Tumor Core": 2.9512,
+        "Whole Tumor": 3.5804
+    }
+}
