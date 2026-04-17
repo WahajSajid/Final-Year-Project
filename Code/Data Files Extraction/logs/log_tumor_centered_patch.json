@@ -1,0 +1,34 @@
+{
+    "run_name": "tumor_centered_patch",
+    "timestamp": "2026-04-17 22:48:30",
+    "total_voxels": 1895825408,
+    "num_patients": 904,
+    "class_counts": {
+        "Background": 1836357827,
+        "ET": 1129916,
+        "NETC": 39494780,
+        "SNFH": 6171428,
+        "RC": 12671457
+    },
+    "class_pct": {
+        "Background": 96.8632,
+        "ET": 0.0596,
+        "NETC": 2.0832,
+        "SNFH": 0.3255,
+        "RC": 0.6684
+    },
+    "region_counts": {
+        "Background": 1836357827,
+        "ET": 1129916,
+        "RC": 12671457,
+        "Tumor Core": 40624696,
+        "Whole Tumor": 46796124
+    },
+    "region_pct": {
+        "Background": 96.8632,
+        "ET": 0.0596,
+        "RC": 0.6684,
+        "Tumor Core": 2.1429,
+        "Whole Tumor": 2.4684
+    }
+}
